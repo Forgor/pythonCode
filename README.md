@@ -15,7 +15,7 @@ This specification is used to show the grammer of some python usage. There will 
 2. the usage of the control output  <br />
 <p>
 
-### 20181016() ###
+### 20181016(2-) ###
 <p >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This is the second example,This is to accomplish to calculate the salary according to the different turnover.</p>
 <p >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the main points as below:<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -25,3 +25,12 @@ This specification is used to show the grammer of some python usage. There will 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 3. I think we should learn the solution that the web provide after wo finsih the question ourselves. beacause I find it is a useful method to solve the problem. just as this time, I leann the for loop and assignment statement to achieve the function recursion   <br />
 <p>
+<br />
+
+<p >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This is the third example,This is to find a number that ca be diveded by sqrt after plus 100 and 268.</p>
+<p >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the main points as below:<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+1. to get the integrate part of the result.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+2. judge the integrate result square is whether is to equal the previous number   <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
